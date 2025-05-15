@@ -1,0 +1,69 @@
+.home-section {
+  padding: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9f9f9;
+  min-height: 100vh;
+}
+
+.home-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.profile-image-wrapper {
+  margin-bottom: 20px;
+}
+
+.profile-image {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid #007bff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.intro-text {
+  max-width: 800px;
+}
+
+.animated-text {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+
+.name {
+  color: #007bff;
+  font-weight: bold;
+}
+
+.subtitle {
+  font-size: 1.2em;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.tagline {
+  font-size: 1em;
+  color: #555;
+  text-align: justify; /* ✅ Justify text here */
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+.welcome {
+  font-size: 1.1em;
+  font-weight: bold;
+  color: #007bff;
+}
+
+.footer-line {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.footer-line h2 {
+  color: #444;
+}
