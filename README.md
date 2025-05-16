@@ -75,5 +75,5 @@ Step 2:Run the code with
         1.npm install
         2.install gh-pages --save-dev
         3.npm start
-  link:https://portfolio-lovat-eight-68.vercel.app/
+View Demo  ---  link:https://portfolio-lovat-eight-68.vercel.app/
         
