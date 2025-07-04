@@ -1,38 +1,39 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
+/* ABOUT SECTION */
+.about-section {
+  padding: 60px 20px;
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  background-image: url('https://www.transparenttextures.com/patterns/polka-dot-pattern.png'),
+                    url('https://www.transparenttextures.com/patterns/floral.png');
+  background-blend-mode: overlay;
+  background-size: contain;
+  background-repeat: repeat;
 }
 
-.App-link {
-  color: #61dafb;
+.about-text {
+  font-size: 1.2rem;
+  line-height: 1.8;
+  color: #c2185b;
+  margin-bottom: 20px;
+  text-align: justify;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.about-details {
+  margin-top: 40px;
+  padding-top: 30px;
+  border-top: 2px dashed #ec407a;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+}
+
+.about-details h3 {
+  font-size: 1.4rem;
+  color: #c2185b;
+  margin-bottom: 12px;
+}
+
+.about-details p, .about-details li {
+  font-size: 1.05rem;
+  color: #444;
+  margin-bottom: 8px;
 }

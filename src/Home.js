@@ -11,7 +11,7 @@ function Home() {
         </div>
 
         <div className="intro-text">
-          <h1 className="animated-text">Hi, I'm <span className="name">Vishnupriya</span></h1>
+          <h1 className="animated-text">Hi, I'm <span className="name">Vishnu Priya</span></h1>
           <p className="subtitle">Full-Stack Developer 👩‍💻 | M.Sc. in Computer Science 🎓</p>
           <p className="tagline">
             I build real-world web applications with a passion for clean code and smooth UX.
