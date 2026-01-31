@@ -8,13 +8,12 @@ function About() {
         <h1 className="section-title">About Me</h1>
 
         <p className="lead">
-          Hi! I'm <strong>Vishnupriya</strong>, an MSc Computer Science graduate and passionate full-stack developer.
+          Hi! I'm <strong>Vishnu Priya</strong>, an MSc Computer Science graduate and passionate full-stack developer.
           I specialize in creating modern web applications using both front-end and back-end technologies.
           With a keen interest in software engineering, I strive to solve complex problems and deliver scalable solutions.
         </p>
         <p className="lead">
-          Currently, I am expanding my knowledge in cutting-edge technologies and seeking opportunities to build impactful projects.
-          My goal is to continue learning, grow as a developer, and contribute to the tech community.
+          Currently, I am expanding my knowledge in cutting-edge technologies and seeking opportunities to build impactful projects.My goal is to continue learning, grow as a developer, and contribute to the tech community.
         </p>
 
         <div className="about-details">
@@ -62,12 +61,8 @@ function About() {
         <h1 className="section-title">About Me</h1>
 
         <p className="about-text">
-          Hi! I'm <strong>Vishnupriya</strong>, a passionate full-stack developer and Computer Science graduate. 
-          I specialize in building modern, responsive web applications using front-end and back-end technologies.
-        </p>
-
-        <p className="about-text">
-          With a strong interest in software engineering, I strive to solve real-world problems through efficient and scalable solutions.
+          Hi! I'm <strong>Vishnu Priya</strong>, a passionate full-stack developer and Computer Science graduate. 
+          I specialize in building modern, responsive web applications using front-end and back-end technologies. With a strong interest in software engineering, I strive to solve real-world problems through efficient and scalable solutions.
           I'm currently deepening my expertise in full-stack development and always eager to learn and grow.
         </p>
 
@@ -75,7 +70,7 @@ function About() {
           <div>
             <h3>🎓 Education</h3>
             <p className="about-text">
-              <strong>B.Sc. Computer Science</strong> — Bharathiar University (2020–2025)
+              <strong>B.Sc. Computer Science</strong> — Bharathiar University (2020–2023)
             </p>
             <p className="about-text">
               <strong>M.Sc. Computer Science</strong> — Bharathiar University (2023-2025)
