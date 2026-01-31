@@ -12,12 +12,12 @@ function Home() {
 
         <div className="intro-text">
           <h1 className="animated-text">Hi, I'm <span className="name">Vishnu Priya</span></h1>
-          <p className="subtitle">Full-Stack Developer 👩‍💻 | M.Sc. in Computer Science 🎓</p>
+          <p className="subtitle">Full-Stack Developer (MERN) 👩‍💻 | M.Sc. in Computer Science 🎓</p>
           <p className="tagline">
             I build real-world web applications with a passion for clean code and smooth UX.
             Building modern, scalable web applications with React on the frontend and Node.js on the backend.
           </p>
-          <p className="welcome">✨ Explore My Work ✨</p>
+        <CENTER><p className="welcome">✨ Explore My Work ✨</p></CENTER>
         </div>
       </div>
 
